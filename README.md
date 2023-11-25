@@ -2,6 +2,12 @@
 + 공식 블로그 : https://sejinjin.tistory.com
 + 공식 디스코드 : https://discord.gg/uJ8Q62QRkD
 
+# 저작권 및 촬영/방송
+
++ 2차 배포 금지
++ 2차 수정 금지
++ 촬영
+
 # 게임모드
 
 + ShiftTnt : 웅크리기시 TNT가 스폰됩니다
