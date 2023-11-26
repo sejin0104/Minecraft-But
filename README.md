@@ -30,7 +30,7 @@
 
 + /but (게임모드) (true/false)
 
-+ True는 활성화, false는 미활성화 입니다
++ True는 활성화, False는 비활성화 입니다
 + (초기에는 전체가 false로 설정되어 있습니다)
 
 # 설정법
