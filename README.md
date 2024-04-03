@@ -1,5 +1,5 @@
 # MineCraft, But
-+ 공식 블로그 : https://sejinjin.tistory.com
++ 공식 블로그 : https://sejinjinit.tistory.com
 + 공식 디스코드 : https://discord.gg/uJ8Q62QRkD
 
 # 저작권 및 촬영/방송
