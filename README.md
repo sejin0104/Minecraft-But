@@ -1,3 +1,8 @@
+# [긴급] 지원 종료
+
+깊은 고민 끝에 지원을 종료하려고 합니다
+관리를 할 의미도 없고 프로젝트에 대한 관심도 떨어지는 것 같아 이러한 결정을 합니다
+
 # MineCraft, But
 + 공식 블로그 : https://sejinjinit.tistory.com
 + 공식 디스코드 : https://discord.gg/uJ8Q62QRkD
